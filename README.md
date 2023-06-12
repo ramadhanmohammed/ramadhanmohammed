@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadhanmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="ramadhanmohammed" /> </p>
 
-- 📫 How to reach me **ramadhanmohammed.se@gmail.com**
+- 📫 reach me **ramadhanmohammed.se@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
