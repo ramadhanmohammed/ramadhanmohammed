@@ -1,4 +1,4 @@
-### Hi there 👋, Ramadhan Mohammed
+### Hi there 👋, I'm Ramadhan Mohammed
 #### Front-End Development
 ![Front-End Development](https://media.licdn.com/dms/image/D4D16AQHIkMTtGi7uVg/profile-displaybackgroundimage-shrink_350_1400/0/1682549347833?e=1692230400&v=beta&t=drsqvR-FEs_DAy9ZJdyLGEEvhCG6IfVsap2a4I8kZtw)
 
