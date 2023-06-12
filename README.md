@@ -7,7 +7,6 @@ I'm skilled in developing front-end, modern client-side frameworks utilizing Jav
 
 Skills: Frontend Developer | React + Redux Developer
 
-- 🔭 I’m currently working on this page. 
 
 
 
