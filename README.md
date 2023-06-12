@@ -5,7 +5,7 @@
 
 ![Agile Project Management](https://img.freepik.com/premium-vector/planning-teamwork-people-looking-office-board_181313-155.jpg?w=1380)
  
- <img align="center" src="https://img.freepik.com/premium-vector/planning-teamwork-people-looking-office-board_181313-155.jpg?w=1380" height="40" width="40" />
+ <img align="center" src="https://img.freepik.com/premium-vector/planning-teamwork-people-looking-office-board_181313-155.jpg?w=1380" height="400" width="1380" />
 
 <hr/>
 <br/>
