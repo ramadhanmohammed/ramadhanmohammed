@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center" src="https://www.invensislearning.com/blog/wp-content/uploads/2016/02/Banner-image-Why-implementing-Agile-Project-Management-is-important.jpg" height="200" width="1584" />
+ <img align="center" src="https://www.notifyvisitors.com/pb/wp-content/uploads/2020/09/What-is-Agile-Project-Management-A-Beginner-Guide_banner-1024x341.jpg" height="200" width="1600" />
 
 <hr/>
 <br/>
