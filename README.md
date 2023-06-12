@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center" src="https://www.notifyvisitors.com/pb/wp-content/uploads/2020/09/What-is-Agile-Project-Management-A-Beginner-Guide_banner-1024x341.jpg" height="200" width="1600" />
+ <img align="center" src="https://cdn.technologyadvice.com/wp-content/uploads/2018/09/planning-agile-scrum-board.jpg" height="200" width="1600" />
 
 <hr/>
 <br/>
