@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center" src="https://kantata.marketing/wp-content/uploads/2021/08/project-managemenr-goals.jpg" height="396" width="1585" />
+ <img align="center" src="https://kantata.marketing/wp-content/uploads/2021/08/project-managemenr-goals.jpg" height="300" width="1585" />
 
 <hr/>
 <br/>
