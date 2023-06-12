@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-nexus-framework-3000_2.png" height="220" width="1000" />
+ <img align="center" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-nexus-framework-3000_2.png" height="396" width="1000" />
 
 <hr/>
 <br/>
