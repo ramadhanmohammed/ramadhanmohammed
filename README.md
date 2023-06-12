@@ -2,10 +2,8 @@
 <h1 align='center'>Software Engineer | CSM | Agile Project Management | Front-End Developer | React + Redux Developer<h1/>  
 <hr/>
 
-
-![Agile Project Management](https://img.freepik.com/premium-vector/planning-teamwork-people-looking-office-board_181313-155.jpg?w=1380)
  
- <img align="center" src="https://img.freepik.com/premium-vector/planning-teamwork-people-looking-office-board_181313-155.jpg?w=1380" height="400" width="1380" />
+ <img align="center" src="https://img.freepik.com/premium-vector/planning-teamwork-people-looking-office-board_181313-155.jpg?w=1380" height="396" width="1584" />
 
 <hr/>
 <br/>
