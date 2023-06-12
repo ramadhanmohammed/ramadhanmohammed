@@ -1,7 +1,7 @@
 
-<h1 align='center'>Software Engineer | CSM | Agile Project Management | Front-End Developer | React + Redux Developer<h1/>  
+<h1 align='center'>Software Engineer | CSM | Agile Project Management <br/>  Front-End Developer | React + Redux Developer<h1/>  
 <hr/>
-<img align="center" style="display: block; border-radius:5px;" src="https://thehire.com/wp-content/uploads/2019/01/managervsleader-1024x538.png" height="300" width="1080"/>
+ <img align="center" style="display: block; border-radius:5px;" src="https://thehire.com/wp-content/uploads/2019/01/managervsleader-1024x538.png" height="300" width="1080"/>
 <hr/>
 <h1 align="center">Hi 👋, I'm Ramadhan</h1>
 <h3 align="center">I'm a software engineer enthusiastic to apply my abilities in software development and software development lifecycle (SDLC) management. I'm skilled in developing front-end, modern client-side frameworks utilizing Javascript and React+Redux, which strongly focus on creating engaging and user-friendly graphical user interfaces.</h3>
