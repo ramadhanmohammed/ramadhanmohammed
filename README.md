@@ -1,6 +1,6 @@
 
 #### Software Engineer | CSM | Agile Project Management | Front-End Developer | React + Redux Developer 
-![Front-End Development]([https://media.licdn.com/dms/image/D4D16AQHIkMTtGi7uVg/profile-displaybackgroundimage-shrink_350_1400/0/1682549347833?e=1692230400&v=beta&t=drsqvR-FEs_DAy9ZJdyLGEEvhCG6IfVsap2a4I8kZtw](https://cdn.technologyadvice.com/wp-content/uploads/2018/09/planning-agile-scrum-board.jpg))
+![Front-End Development](https://cdn.technologyadvice.com/wp-content/uploads/2018/09/planning-agile-scrum-board.jpg)
 
 
 
