@@ -4,13 +4,10 @@
  <div style="display:flex;">
   <img align="right" style="display: block; border-radius:5px;" src="https://t3.ftcdn.net/jpg/05/63/76/32/360_F_563763257_hZiBtwveO4DBtwjzhQq2BKDEFx4TcdqC.jpg" height="300" width="450"/>
   <br/>
-   <br/>
+
   <q>A reader lives a thousand lives before he dies . . .<br/> The man who never reads lives only one.
 </q>
-  <br/>
-   <br/>
-   <br/>
-   <br/>
+  <p>~ George R.R. Martin</p>
  </div>
  
 <hr/>
