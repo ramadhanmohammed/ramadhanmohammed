@@ -4,7 +4,7 @@
  <div style="display:flex;">
   <img align="right" style="display: block; border-radius:45px;" src="https://media.licdn.com/dms/image/C5612AQFdiLnQ1nQ9FA/article-cover_image-shrink_720_1280/0/1533223897175?e=2147483647&v=beta&t=NLPX8pwa-aWftrhQToWsSSDbxIhwSdo8nlpwANfMEwk" height="300" width="450"/>
   <br/>
-<br/>
+
   <q>Leadership is not about being in charge. Leadership is about taking care of those in our charge.
 </q>
     
