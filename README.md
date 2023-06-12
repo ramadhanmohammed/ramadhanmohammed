@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center" src="https://img.freepik.com/premium-vector/planning-teamwork-people-looking-office-board_181313-155.jpg?w=1380" height="396" width="1584" />
+ <img align="center" src="https://img.freepik.com/free-vector/agile-method-concept-illustration_114360-9809.jpg?w=740&t=st=1686582359~exp=1686582959~hmac=e36013abbb00c30fc980cae26c863d9047a26ffe349465d8178f87286a28906e" height="396" width="1584" />
 
 <hr/>
 <br/>
