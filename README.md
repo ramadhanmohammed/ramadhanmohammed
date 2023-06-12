@@ -9,7 +9,7 @@
 </q>
   <p>~ George R.R. Martin</p>
  </div>
- 
+ <br/>
 <hr/>
 <h1 align="center" >Hi 👋, I'm Ramadhan</h1>
 <h3 align="center">I'm a software engineer enthusiastic to apply my abilities in software development and software development lifecycle (SDLC) management. I'm skilled in developing front-end, modern client-side frameworks utilizing Javascript and React+Redux, which strongly focus on creating engaging and user-friendly graphical user interfaces.</h3>
