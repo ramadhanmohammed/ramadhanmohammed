@@ -1,5 +1,5 @@
 
-#### Software Engineer | CSM | Agile Project Management | Front-End Developer | React + Redux Developer 
+<h1 align='center'>Software Engineer | CSM | Agile Project Management | Front-End Developer | React + Redux Developer<h1/>  
 <hr/>
 
 
