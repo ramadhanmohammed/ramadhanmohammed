@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center" src="https://t3.ftcdn.net/jpg/04/50/98/82/360_F_450988266_T60Dh6f0kqy9rL5t2YxNCi2ZVc94xKfM.jpg" height="200" width="1584" />
+ <img align="center" src="https://www.notifyvisitors.com/pb/wp-content/uploads/2020/07/10-Best-Project-Management-Techniques-You-Must-Know-About_banner.jpg" height="200" width="1584" />
 
 <hr/>
 <br/>
