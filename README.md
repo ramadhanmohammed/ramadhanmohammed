@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadhanmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="ramadhanmohammed" /> </p>
 <h1 align='center'>Software Engineer | CSM | Agile Project Management <br/>  Front-End Developer | React + Redux Developer<h1/>  
 <hr/>
  <div style="display:flex;">
@@ -16,7 +16,7 @@
 <h1 align="center" >Hi 👋, I'm Ramadhan</h1>
 <h3 align="center">I'm a software engineer enthusiastic to apply my abilities in software development and software development lifecycle (SDLC) management. I'm skilled in developing front-end, modern client-side frameworks utilizing Javascript and React+Redux, which strongly focus on creating engaging and user-friendly graphical user interfaces.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadhanmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="ramadhanmohammed" /> </p>
+
 
 - 📫 reach me **ramadhanmohammed.se@gmail.com**
 
