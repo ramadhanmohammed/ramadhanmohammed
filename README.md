@@ -8,6 +8,7 @@
   <q>A reader lives a thousand lives before he dies . . .<br/> The man who never reads lives only one.
 </q>
   <p>~ George R.R. Martin</p>
+  <br/>
  </div>
  <br/>
 <hr/>
