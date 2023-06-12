@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center" src="https://www.gliffy.com/sites/default/files/image/2023-01/image-blog-gliffy-confluence-for-project-management.png" height="200" width="1584" />
+ <img align="center" src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-nexus-framework-3000_2.png" height="200" width="1584" />
 
 <hr/>
 <br/>
