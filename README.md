@@ -7,16 +7,10 @@ I'm skilled in developing front-end, modern client-side frameworks utilizing Jav
 
 Skills: Frontend Developer | React + Redux Developer
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: ramadhanmohammed.se@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ramadhanmohammed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramadhanmohammed/)  
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhanmohammed)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ramadhanmohammed)  
-
-![Profile views](https://gpvc.arturio.dev/ramadhanmohammed)  
