@@ -2,7 +2,7 @@
 <h1 align='center'>Software Engineer | CSM | Agile Project Management <br/>  Front-End Developer | React + Redux Developer<h1/>  
 <hr/>
  <div style="display:flex;">
-  <img align="right" style="display: block; border-radius:5px;" src="https://t3.ftcdn.net/jpg/05/63/76/32/360_F_563763257_hZiBtwveO4DBtwjzhQq2BKDEFx4TcdqC.jpg" height="300" width="500"/>
+  <img align="right" style="display: block; border-radius:5px;" src="https://t3.ftcdn.net/jpg/05/63/76/32/360_F_563763257_hZiBtwveO4DBtwjzhQq2BKDEFx4TcdqC.jpg" height="300" width="400"/>
   <br/>
    <br/>
   <q>A reader lives a thousand lives before he dies . . . The man who never reads lives only one.
