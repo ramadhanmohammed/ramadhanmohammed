@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center" src="https://www.notifyvisitors.com/pb/wp-content/uploads/2020/07/10-Best-Project-Management-Techniques-You-Must-Know-About_banner.jpg" height="200" width="1584" />
+ <img align="center" src="https://www.gliffy.com/sites/default/files/image/2023-01/image-blog-gliffy-confluence-for-project-management.png" height="200" width="1584" />
 
 <hr/>
 <br/>
