@@ -2,12 +2,12 @@
 <h1 align='center'>Software Engineer | CSM | Agile Project Management <br/>  Front-End Developer | React + Redux Developer<h1/>  
 <hr/>
  <div style="display:flex;">
-  <img align="right" style="display: block; border-radius:5px;" src="https://t3.ftcdn.net/jpg/05/63/76/32/360_F_563763257_hZiBtwveO4DBtwjzhQq2BKDEFx4TcdqC.jpg" height="300" width="450"/>
+  <img align="right" style="display: block; border-radius:5px;" src="https://media.licdn.com/dms/image/C5612AQFdiLnQ1nQ9FA/article-cover_image-shrink_720_1280/0/1533223897175?e=2147483647&v=beta&t=NLPX8pwa-aWftrhQToWsSSDbxIhwSdo8nlpwANfMEwk" height="300" width="450"/>
   <br/>
 
-  <q>A reader lives a thousand lives before he dies . . .<br/> The man who never reads lives only one.
+  <q>Leadership is not about being in charge. Leadership is about taking care of those in our charge.
 </q>
-  <p>~ George R.R. Martin</p>
+  <p>~ Simon Sinek</p>
   <br/>
  </div>
  <br/>
