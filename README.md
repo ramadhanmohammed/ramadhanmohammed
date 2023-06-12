@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadhanmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="ramadhanmohammed" /> </p>
-<h1 align='center'>Software Engineer | CSM | Agile Project Management <br/>  Front-End Developer | React + Redux Developer<h1/>  
-<hr/>
+<h1 align='center'>Software Engineer | CSM | Agile Project Management <br/>  Front-End Developer | React + Redux Developer <hr/><h1/>  
+
  <div style="display:flex;">
   <img align="right" style="display: block; border-radius:45px;" src="https://media.licdn.com/dms/image/C5612AQFdiLnQ1nQ9FA/article-cover_image-shrink_720_1280/0/1533223897175?e=2147483647&v=beta&t=NLPX8pwa-aWftrhQToWsSSDbxIhwSdo8nlpwANfMEwk" height="300" width="425"/>
   <br/>
