@@ -3,7 +3,7 @@
 <hr/>
 
  
- <img align="center"  src="https://thehire.com/wp-content/uploads/2019/01/managervsleader-1024x538.png" height="300" width="1080" />
+ <img align="center" style="display: block; border-radius:5px;">  src="https://thehire.com/wp-content/uploads/2019/01/managervsleader-1024x538.png" height="300" width="1080" />
 
 <hr/>
 <br/>
