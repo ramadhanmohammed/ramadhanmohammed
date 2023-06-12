@@ -1,6 +1,6 @@
 
 #### Software Engineer | CSM | Agile Project Management | Front-End Developer | React + Redux Developer 
-![Front-End Development](https://img.freepik.com/free-vector/flat-scrum-task-board-with-color-stick-paper-notes_88138-931.jpg?w=1060&t=st=1686582407~exp=1686583007~hmac=f4ea2ad9bdbb1388b80d0ce987c7aa3a9a725c8fd2aee93442fb9faa7055fe44)
+![Front-End Development](https://img.freepik.com/premium-vector/planning-teamwork-people-looking-office-board_181313-155.jpg?w=1000)
 
 
 
