@@ -7,8 +7,8 @@
 <br/>
   <q>Leadership is not about being in charge. Leadership is about taking care of those in our charge.
 </q>
-    <br/>
-  <p>~ Simon Sinek</p>
+    
+  <p><br/>~ Simon Sinek</p>
  </div>
  <br/>
 
